@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Sceau de Luxembourg Emergency Relief : tête de lion stylisée">
+<title>Luxembourg Emergency Relief</title>
+<defs>
+<path id="haut" d="M 32.1,161.0 A 97,97 0 1 1 207.9,161.0"/>
+<path id="bas" d="M 18,120 A 102,102 0 0 0 222,120"/>
+</defs>
+<circle cx="120" cy="120" r="116" fill="#14284b"/>
+<circle cx="120" cy="120" r="112" fill="none" stroke="#6fb3e0" stroke-width="1.5"/>
+<circle cx="120" cy="120" r="80" fill="#f6f2e8"/>
+<circle cx="120" cy="120" r="80" fill="none" stroke="#6fb3e0" stroke-width="1.5"/>
+<text font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" letter-spacing="1.6" fill="#ffffff"><textPath href="#haut" startOffset="50%" text-anchor="middle">LUXEMBOURG EMERGENCY RELIEF</textPath></text>
+<text font-family="Georgia,'Times New Roman',serif" font-size="14" font-weight="700" letter-spacing="6" fill="#6fb3e0"><textPath href="#bas" startOffset="50%" text-anchor="middle">ASBL</textPath></text>
+<polygon points="120.0,50.0 131.1,75.3 152.1,57.3 151.2,84.9 177.9,77.9 165.0,102.3 192.1,107.5 170.0,124.0 192.1,140.5 165.0,145.7 177.9,170.1 151.2,163.1 152.1,190.7 131.1,172.7 120.0,198.0 108.9,172.7 87.9,190.7 88.8,163.1 62.1,170.1 75.0,145.7 47.9,140.5 70.0,124.0 47.9,107.5 75.0,102.3 62.1,77.9 88.8,84.9 87.9,57.3 108.9,75.3" fill="#8f0b22"/>
+<polygon points="135.1,57.7 140.8,80.8 162.4,70.8 157.5,94.1 181.3,94.5 166.8,113.3 188.0,124.0 166.8,134.7 181.3,153.5 157.5,153.9 162.4,177.2 140.8,167.2 135.1,190.3 120.0,172.0 104.9,190.3 99.2,167.2 77.6,177.2 82.5,153.9 58.7,153.5 73.2,134.7 52.0,124.0 73.2,113.3 58.7,94.5 82.5,94.1 77.6,70.8 99.2,80.8 104.9,57.7 120.0,76.0" fill="#c8102e"/>
+<polygon points="84,94 94,72 108,88" fill="#8f0b22"/>
+<polygon points="156,94 146,72 132,88" fill="#8f0b22"/>
+<polygon points="120,86 94,92 80,114 83,142 98,164 120,174 142,164 157,142 160,114 146,92" fill="#f6f2e8" stroke="#14284b" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="80,114 83,142 98,164 106,136" fill="#e9e3d3"/>
+<polygon points="160,114 157,142 142,164 134,136" fill="#e9e3d3"/>
+<path d="M90,104 L112,112 M150,104 L128,112" stroke="#14284b" stroke-width="3" stroke-linecap="round"/>
+<polygon points="94,118 110,115 107,124" fill="#14284b"/>
+<polygon points="146,118 130,115 133,124" fill="#14284b"/>
+<path d="M120,94 L120,130" stroke="#14284b" stroke-width="2" opacity=".5"/>
+<polygon points="109,132 131,132 120,146" fill="#c8102e" stroke="#14284b" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M120,146 L120,155 M103,160 L120,155 L137,160" fill="none" stroke="#14284b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
